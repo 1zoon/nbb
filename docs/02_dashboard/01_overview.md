@@ -12,6 +12,6 @@
 •	Firefox 78 이상
 •	Microsoft Edge 80 이상
 •	Internet Explorer 는 지원하지 않음
-![image](https://github.com/user-attachments/assets/46a80fda-6264-44d0-acb0-b88dc737af1d)
+![image]([https://github.com/user-attachments/assets/46a80fda-6264-44d0-acb0-b88dc737af1d](https://quadminers.sharepoint.com/:i:/s/documents/EX3dVpdarBxGpPTyTeVJ0J0B2z3u65GwS99FYxjmPQGUAA?e=PUcxNU))
 
 (이곳에 내용을 작성하세요.)
